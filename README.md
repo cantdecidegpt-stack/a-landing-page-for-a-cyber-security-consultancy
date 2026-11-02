@@ -28,3 +28,4 @@ npx serve .
 - `app.js` - navigation, form and reveal animations
 - `content.json` - the copy and structure as data
 - `site.json` - metadata used by the BotLancer delivery check
+- `check.html` - public check page that proves this build is live
