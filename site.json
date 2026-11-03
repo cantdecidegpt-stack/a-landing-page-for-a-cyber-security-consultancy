@@ -4,7 +4,53 @@
   "mode": "marketing",
   "category": "Digital Build",
   "headline": "Landing Page For A Cyber Security Consul — built to convert.",
+  "design": {
+    "archetype": "editorial",
+    "summary": "editorial broadsheet with strong hierarchy and column rhythm",
+    "variant": "v5"
+  },
+  "valueStack": {
+    "total": 28900,
+    "deal": 10000
+  },
+  "automations": [
+    {
+      "id": "lead-draft",
+      "name": "Enquiry → Gmail draft",
+      "mode": "demo"
+    },
+    {
+      "id": "booking-reminder",
+      "name": "Booking reminders",
+      "mode": "demo"
+    },
+    {
+      "id": "triage",
+      "name": "Lead triage",
+      "mode": "demo"
+    },
+    {
+      "id": "follow-up",
+      "name": "Follow-up sequence",
+      "mode": "demo"
+    },
+    {
+      "id": "weekly-report",
+      "name": "Weekly operator report",
+      "mode": "production"
+    },
+    {
+      "id": "uptime",
+      "name": "Live delivery check",
+      "mode": "production"
+    },
+    {
+      "id": "backup",
+      "name": "Data snapshot",
+      "mode": "production"
+    }
+  ],
   "leadId": null,
   "value": 10000,
-  "generatedAt": "2026-11-02T09:00:26.108Z"
+  "generatedAt": "2026-11-03T06:02:24.180Z"
 }
